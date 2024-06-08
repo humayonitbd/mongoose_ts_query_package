@@ -1,0 +1,24 @@
+{
+  "name": "mongoose_ts_query_package",
+  "version": "1.0.0",
+  "description": "Adds a search condition to the query.",
+  "main": "index.js",
+  "scripts": {
+    "test": "query"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/humayonitbd/mongoose_ts_query_package)"
+  },
+  "keywords": [
+    "query"
+  ],
+  "author": "Humayon Forid",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "mongoose": "^8.4.1"
+  }
+}
